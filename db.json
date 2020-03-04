@@ -3,7 +3,9 @@
     {
       "id": 1,
       "name": "Ana Beatriz",
-      "wallet": 600
+      "wallet": 600,
+      "email":"bibiabss96@gmail.com",
+      "password":54321
     }
   ]
 ,

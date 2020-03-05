@@ -21,5 +21,21 @@
     "options":["1,2 megatonelada","1,3 megatonelada","1,4 megatonelada","1,5 megatonelada"],
     "answer":"1,5 megatonelada"
   }
+],
+  "quiz2": [
+  {
+    "id": 2,
+    "question":"Qual das alternativas representa um risco do descarte impróprio do e-lixo?",
+    "options":["Contaminação do solo","Contaminação lençol freático","Vazamento de algum tipo de radiação","Todas as alternativas"],
+    "answer":"Todas as alternativas"
+  }
+],
+  "quiz3": [
+  {
+    "id": 3,
+    "question":"O berílio, contido em smartphones, em decomposição pode causar quais doenças?",
+    "options":["Intoxicações respiratória e câncer de pulmão.","Doenças ósseas.","Doenças cardiovasculares","Doenças no sistema nervoso."],
+    "answer":"Intoxicações respiratória e câncer de pulmão."
+  }
 ] 
 }
